@@ -1,0 +1,6 @@
+framework module Pods_LoveLove_I_phone {
+  umbrella header "Pods-LoveLove I-phone-umbrella.h"
+
+  export *
+  module * { export * }
+}
